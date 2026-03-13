@@ -35,6 +35,7 @@ This project provides a comprehensive analysis of solar power generation data, s
 UPY sites demonstrate significantly higher capacity and output, serving as the primary drivers of total power generation.
 
 ## Project Structure
+Solar-Power-Generation-Analysis/
 ├── Clean Data/
 │   └── al-pv-2006 solar.xlsx
 ├── Description/
@@ -46,5 +47,4 @@ UPY sites demonstrate significantly higher capacity and output, serving as the p
 └── Result/
     ├── Solar Power Generation.pbix
     └── Solar Power Generation.png
----
 
