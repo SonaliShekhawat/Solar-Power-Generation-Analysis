@@ -36,15 +36,18 @@ UPY sites demonstrate significantly higher capacity and output, serving as the p
 
 ## Project Structure
 
- ├── Clean Data/
- │   └── al-pv-2006 solar.xlsx
- ├── Description/
- │   └── Description.txt
- ├── LICENSE
- ├── Raw Data/
- │   └── al-pv-2006 solar.xlsx
- ├── README.md
- └── Result/
-    ├── Solar Power Generation.pbix
-    └── Solar Power Generation.png
+```
+Solar-Power-Generation-Analysis/
+├── Clean Data/
+│   └── al-pv-2006 solar.xlsx          # Cleaned and processed dataset
+├── Description/
+│   └── Description.txt                # Detailed project description and analysis summary
+├── LICENSE                            # MIT License file
+├── Raw Data/
+│   └── al-pv-2006 solar.xlsx          # Original dataset downloaded from Kaggle
+├── README.md                          # Project documentation
+└── Result/
+    ├── Solar Power Generation.pbix    # Power BI desktop file with interactive dashboard
+    └── Solar Power Generation.png     # Static image of the dashboard
+```
 
