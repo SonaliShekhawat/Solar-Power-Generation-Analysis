@@ -47,6 +47,5 @@ UPY sites demonstrate significantly higher capacity and output, serving as the p
 └── Result/
     ├── Solar Power Generation.pbix
     └── Solar Power Generation.png
-    
 ---
 
