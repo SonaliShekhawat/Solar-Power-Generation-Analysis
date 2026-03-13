@@ -36,16 +36,15 @@ UPY sites demonstrate significantly higher capacity and output, serving as the p
 
 ## Project Structure
 
-├── Clean Data/
-│   └── al-pv-2006 solar.xlsx
-├── Description/
-│   └── Description.txt
-├── LICENSE
-├── Raw Data/
-│   └── al-pv-2006 solar.xlsx
-├── README.md
-└── Result/
+ ├── Clean Data/
+ │   └── al-pv-2006 solar.xlsx
+ ├── Description/
+ │   └── Description.txt
+ ├── LICENSE
+ ├── Raw Data/
+ │   └── al-pv-2006 solar.xlsx
+ ├── README.md
+ └── Result/
     ├── Solar Power Generation.pbix
     └── Solar Power Generation.png
----
 
