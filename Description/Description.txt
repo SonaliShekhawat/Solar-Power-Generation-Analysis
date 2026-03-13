@@ -1,0 +1,39 @@
+Solar Power Generation Report Summary :
+This dashboard provides a comprehensive overview of solar energy production, detailing performance across time scales and installation types.
+
+1. Executive Summary (Key Performance Indicators)
+The system shows high overall productivity with substantial installed capacity:
+
+Max capacity: 80 mw
+Max power generated: 74.60 mw
+Total sum of power generated: 7.69M mw
+Average power generated: 7.33 mw
+
+Power by Month:
+Power generation generally increases from December to May.
+May has the highest sum of power generated, at approximately 0.80M mw.
+December has the lowest sum of power generated, at approximately 0.50M mw.
+
+Average Power by Hour:
+Power generation follows a typical solar curve, starting near 0 around hour 5, peaking at approximately 25 mw around hour 13, and decreasing back to 0 around hour 20.
+
+Power by Day:
+The sum of power generated fluctuates daily, with peaks around days 10 and 25.
+The highest daily sum shown is around 0.32M mw.
+The lowest daily sum shown is around 0.14M mw near day 30.
+
+Average Capacity and Power by Site Type:
+Two site types are present: UPY and DPV.
+UPY sites have an average capacity of 66.67 mw and an average power generation of 11 mw.
+DPV sites have an average capacity of 36.85 mw and an average power generation of 6 mw.
+
+2. Temporal Production Trends
+Monthly Performance: Energy generation shows a steady upward trend throughout the year. Production is lowest in December (0.50M MW) and peaks in May (0.80M MW), suggesting strong seasonal correlation with longer daylight hours.
+Daily Patterns: Generation fluctuates between 0.14M and 0.32M MW daily. There is a noticeable sharp decline toward the end of the month (Day 30), which may warrant investigation into maintenance or weather patterns.
+Hourly Distribution: Output follows a classic bell curve. Generation begins around hour 6, reaches a peak of 25 MW at hour 13 (1 PM), and tapers off by hour 20 (8 PM).
+
+3. Performance by Site Type
+The data compares Utility-Scale Photovoltaics (UPV) and Distributed Photovoltaics (DPV):
+UPV: Exhibits significantly higher capacity (66.67 MW) and average power output (11 MW).
+DPV: Operates at a smaller scale with a capacity of 36.85 MW and an average output of 6 MW.
+Efficiency: UPV sites are currently the primary drivers of total power generation for this portfolio.
